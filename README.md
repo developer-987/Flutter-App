@@ -17,11 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Developers
-- Dev 
+- Devang
 - Ravi
 - RAO 
 - Nitin 
-- Devang 
+- Dev
 - Omkar 
 - Pranav 
 - Sanjay 
