@@ -1,4 +1,4 @@
-# heil_hitler omkar
+# heil_omkar
 
 A new Flutter project.
 
